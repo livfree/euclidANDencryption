@@ -1,4 +1,4 @@
-#euclid+encryption
+#euclidANDencryption
 
 Finds greatest common divisor, Bezout coefficients, the inverse of a mod m,
 and uses Affine cipher to encrypt and decrypt phrases.
